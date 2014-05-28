@@ -1,0 +1,10 @@
+Partner 1 name: Chia-Hao Chiao
+Partner 1 login: cs61c-un
+Partner 2 name:	Ian Fox
+Partner 2 login: cs61c-ok
+
+CS61C Spring 2014 Project 1-2 Task A Writeup
+
+1. Which version (iterative or recursive) executed more instructions, and why? Please answer in 1-2 sentences.
+
+Recursive call requires more instructions because it repeatedly calls the entire function, unlike iterative funciton, which only repeats the for loop.
